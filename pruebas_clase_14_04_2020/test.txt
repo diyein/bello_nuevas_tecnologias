@@ -1,0 +1,4 @@
+primera prueba
+segunda prueba
+prueba volver al estado anterior
+prueba edita comit
